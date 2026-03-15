@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 practice time going on..
+=======
+practice time starts...
+>>>>>>> devops1
+conflict being resolved
